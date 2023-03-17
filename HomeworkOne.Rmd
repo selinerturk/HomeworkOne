@@ -1,6 +1,6 @@
 ---
 title: "Ödev 1"
-author: "Ad Soyad"
+author: "Selin Ertürk"
 ---
 
 ```{r global_options, include=FALSE}
